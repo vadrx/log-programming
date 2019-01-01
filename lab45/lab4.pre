@@ -1,0 +1,4 @@
+%BEGIN_DECL, System generated global predicates
+GLOBAL PREDICATES
+  dlg_tick_tack_toe_Create(WINDOW Parent) - (i)
+%END_DECL

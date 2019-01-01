@@ -1,0 +1,6 @@
+incl_file("laba4.pro",["laba4.inc","laba4.con","lab4_2.pro","lab5_1.pro","5_2_2.pro"])
+incl_file("laba4.inc",["c:\\vip\\vpi\\include\\vpi.con","c:\\vip\\vpi\\include\\vpi.dom","c:\\vip\\vpi\\include\\vpi.pre","laba4.pre"])
+incl_file("vpitools.pro",["lab4.inc","c:\\vip\\include\\error.con"])
+incl_file("lab4.pro",["lab4.inc","lab4.con","lab4_2.pro","lab5_1.pro","lab5_2.pro"])
+incl_file("lab4.inc",["c:\\vip\\vpi\\include\\vpi.con","c:\\vip\\vpi\\include\\vpi.dom","c:\\vip\\vpi\\include\\vpi.pre","lab4.pre"])
+incl_file("c:\\vip\\vpi\\include\\vpi.dom",["c:\\vip\\include\\types.dom"])
